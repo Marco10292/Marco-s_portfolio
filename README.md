@@ -14,5 +14,4 @@ Database: MySQL
 Visualization: Tableau, Power BI
 
 👋🏻 Connect with Me
-[Linkedin]([https://www.example.com](https://www.linkedin.com/in/marco-gamberini-a72a27225/)
-Hire me on Upwork
+[Linkedin] (https://www.linkedin.com/in/marco-gamberini-a72a27225/)
