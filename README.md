@@ -9,9 +9,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Power BI]
 
 
-🌾 **1) Freed-Kamaiya Nutrition Project** [Excel - Python - Tableau] 
+🌾 **1) Freed-Kamaiya Nutrition Project** [Excel - Python - Tableau] ([link](https://github.com/Marco10292/Freed-Kamaiya-Nutrition-Project/blob/main/README.md))
 
-💸 **2) Sales Analysis of a Supermarket Chain with Recommendations** [SQL - Tableau] ([link](https://public.tableau.com/views/SalesAnalysisofaSupermarketChainwithRecommendations/Categorieprofittiperdite?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+💸 **2) Sales Analysis of a Supermarket Chain with Recommendations** [SQL - Tableau] ([link](https://github.com/Marco10292/Sales-Analysis-of-a-Supermarket-Chain-with-Recommendations/blob/main/README.md))
 
-🔎 **3) Customer segmentation for targeted marketing campaigns** [Python - Power BI] ([link](https://colab.research.google.com/drive/1wPRLQ8oJrhcehfJj6IlLWmb0r0nzVlUd?usp=sharing))
+🔎 **3) Customer segmentation for targeted marketing campaigns** [Python - Power BI] ([link](https://github.com/Marco10292/Customer-segmentation-for-targeted-marketing-campaigns/blob/main/README.md))
 
