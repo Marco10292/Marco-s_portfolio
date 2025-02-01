@@ -15,3 +15,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 🔎 **3) Customer segmentation for targeted marketing campaigns** [Python - Power BI] ([link](https://github.com/Marco10292/Customer-segmentation-for-targeted-marketing-campaigns/blob/main/README.md))
 
+🎓 **4) QS University Rankings 2025** [Python - Tableau] ([link](https://github.com/Marco10292/QS-University-Rankings-2025/blob/main/README.md)
